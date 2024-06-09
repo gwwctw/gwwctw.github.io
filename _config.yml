@@ -14,11 +14,11 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 린, 침착하게 이것 좀 설명해줘 # the main title
+title: Lina's blog # the main title
 
-tagline: 어? 너 오늘 시간 많아? # it will display as the sub-title
+tagline: Welcome # it will display as the sub-title
 
-description: 일단 학교에서 학비와 시간을 많이 태웠는데 지식이 소멸하고 있어 허겁지겁 정리하는 지식 창고>- # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
